@@ -2,7 +2,7 @@
 
 > ##### npm install
 
-> ##### npm run dev
+> ##### 'npm run dev' or 'node src/index.js'
 
 ##### or you can open both heroku projects
 
