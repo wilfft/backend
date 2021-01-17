@@ -51,9 +51,3 @@ routes.get("/api/users/:username/details", async (req, res) => {
 });
 
 module.exports = routes;
-/**api
-  .get("/users/wilfft")
-  .then((response) => console.log(response.data))
-  .catch((err) => {
-    console.error("ops! ocorreu um erro" + err);
-  }); */
